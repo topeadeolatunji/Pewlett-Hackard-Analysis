@@ -53,7 +53,7 @@ e.first_name,
 	de.from_date,
 	de.to_date,
 	t.title
-INTO memtorship_eligibility
+INTO mentorship_eligibility
 FROM employees as e
 INNER JOIN dept_emp as de
 ON (e.emp_no = de.emp_no)
