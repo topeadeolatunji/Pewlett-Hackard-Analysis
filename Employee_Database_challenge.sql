@@ -33,4 +33,13 @@ FROM unique_titles as ut
 LEFT JOIN titles as t
 ON ut.emp_no = t.emp_no
 GROUP BY t.title
+
+-- To create a retiring_titles table
+SELECT COUNT(ut.emp_no), t.title
+INTO retiring_titles
+FROM unique_titles as ut
+LEFT JOIN titles as t
+ON ut.emp_no = t.emp_no
+GROUP BY t.title
+ORDER BY count DESC;
 ORDER BY count DESC;
