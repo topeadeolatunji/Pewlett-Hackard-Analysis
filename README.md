@@ -20,6 +20,10 @@ Bobby is a HR Analyst who has been tasked to help with understanding those emplo
 
 ![image](https://user-images.githubusercontent.com/104689265/175783289-1cfa419c-7db1-4716-b672-8404cf117f65.png)
 
+- Lastly, we generated a table of employees list who could be eligible for mentorship programme to help fill vacant positions. This included using the criteria where the employee birthdate is during 1965, who are also currently employed by PH, using columns from 3 different tables: employees, dept_emp & titles. This gave a comprehensive list called mentorship-eligibility that narrowed the employees. See the below tables:
+
+![image](https://user-images.githubusercontent.com/104689265/175783561-0589c1ea-e917-43aa-acc6-736b4bbc7b9c.png)
+
 
 ## Summary & Conclusion
 
