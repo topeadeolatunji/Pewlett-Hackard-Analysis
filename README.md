@@ -9,7 +9,8 @@ Bobby is a HR Analyst who has been tasked to help with understanding those emplo
 ## Results & Findings
 
 - Initial task to understand employees retiring is to generate a table/list of employees whose birth date was between 1952 and 1955 along with the employee detail such as employee number which is a unique primary key, full name, and birth date. This information was available in the 'Employee' .csv file. Next, I gathered job titles, as well as tenure (i.e. to & from date the position was held by the employee) from the 'Titles' file. Combining the 2 files allowed us to generate the 'retiremnent_titles' table. This is the result (see image below):
--   
+![image](https://user-images.githubusercontent.com/104689265/175782631-6fca9c30-31c4-4ee8-90ca-6323e7bcfe0c.png)
+
 
 ## Summary & Conclusion
 
