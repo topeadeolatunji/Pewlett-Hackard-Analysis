@@ -27,3 +27,8 @@ Bobby is a HR Analyst who has been tasked to help with understanding those emplo
 
 ## Summary & Conclusion
 
+Based on the above findings and analysis, we can conclude the following:
+  1. There are 72,459 roles / titles to be filled as the silver tsunami takes place. These roles won't be filled overnight, but incrementally and slowly.
+  2. Also, there are 1,549 employees that are eligible for the mentorship programme that can help fill the positions that will be vacant. It seems like the ratio of    positions to be filled and those eligible for the mentorship programme is underwhelming at about 47 roles to 1 mentor. 
+
+In conclusion, PH should expand its mentorship eligibility by expanding the birth year. This will ensure that there are enough mentors to help fill the vacancy as a results of employees retiring.
