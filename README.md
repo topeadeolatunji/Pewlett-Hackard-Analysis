@@ -12,6 +12,14 @@ Bobby is a HR Analyst who has been tasked to help with understanding those emplo
 
 ![image](https://user-images.githubusercontent.com/104689265/175782631-6fca9c30-31c4-4ee8-90ca-6323e7bcfe0c.png)
 
+- Next in order to remove the issues in the 1st table, we used the DISTINCT ON () function on emp_no to remove duplicate occurrence where employees appear more than once. Next, to capture just current employees, we filtered the WHERE AND () to include current employees setting the to_date to set to '9999-01-01'. This resolved the issues found in the 1st table and called unique table. See below:
+
+![image](https://user-images.githubusercontent.com/104689265/175783111-90eb47a7-66e9-4f67-a02f-3615330b1ed5.png)
+
+- Next, we tallied the total counts of employees into a retiring table from the unique table created above in order to get the counts by title. This helps depict the number of unique positions that needs to be filled by titles
+
+![image](https://user-images.githubusercontent.com/104689265/175783289-1cfa419c-7db1-4716-b672-8404cf117f65.png)
+
 
 ## Summary & Conclusion
 
